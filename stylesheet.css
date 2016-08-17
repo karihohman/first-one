@@ -1,0 +1,47 @@
+body {
+background-image: url("http://i65.tinypic.com/nmxm51.jpg");
+background-repeat: no-repeat;
+font-family: 'Share Tech Mono', monospace;
+font-weight: bold;
+background-attachment: fixed;
+background-size: cover;
+padding: 1% 5%;
+color: black;
+}
+
+.first_paragraph {
+font-size: 2.25em;
+}
+
+.filler {
+font-size: 1em;
+word-wrap: break-word;
+padding: 20px;
+background-image: url("blog-photo.png");
+}
+
+.container-fluid {
+background-color: #FFFFFF;
+font-size: 1.5em;
+color:darkgray;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+background-color: black;
+color: white;
+}
+
+.blogpost {
+word-wrap: break-word;
+padding: 20px;
+background-image: url("blog-photo.png");
+font-size: 1.5em;
+line-height: 1.25em;
+}
+
+.header {
+background-image:url("blog-photo.png");
+padding: 25px;
+}
+
+
